@@ -1,0 +1,54 @@
+D:\Projects\HGR UI\HGR UI\bin\Debug\HGR UI.exe.config
+D:\Projects\HGR UI\HGR UI\bin\Debug\HGR UI.exe
+D:\Projects\HGR UI\HGR UI\bin\Debug\HGR UI.pdb
+D:\Projects\HGR UI\HGR UI\obj\Debug\HGR_UI.Form1.resources
+D:\Projects\HGR UI\HGR UI\obj\Debug\HGR_UI.Properties.Resources.resources
+D:\Projects\HGR UI\HGR UI\obj\Debug\HGR UI.csproj.GenerateResource.cache
+D:\Projects\HGR UI\HGR UI\obj\Debug\HGR UI.csproj.CoreCompileInputs.cache
+D:\Projects\HGR UI\HGR UI\obj\Debug\HGR UI.exe
+D:\Projects\HGR UI\HGR UI\obj\Debug\HGR UI.pdb
+D:\Projects\HGR UI\HGR UI\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Projects\HGR UI\HGR UI\obj\Debug\HGR UI.csproj.CopyComplete
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.dll.config
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.dll
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Imaging.dll
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Math.Core.dll
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Math.dll
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Statistics.dll
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Video.DirectShow.dll
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Video.dll
+D:\Projects\HGR UI\HGR UI\bin\Debug\SVM.dll
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.xml
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Imaging.xml
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Math.xml
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Math.Core.xml
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Statistics.xml
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Video.xml
+D:\Projects\HGR UI\HGR UI\bin\Debug\Accord.Video.DirectShow.xml
+D:\Projects\HGR UI\HGR UI\obj\Debug\HGR UI.csprojResolveAssemblyReference.cache
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.dll.config
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\HGR UI.exe.config
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\HGR UI.exe
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\HGR UI.pdb
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.dll
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Imaging.dll
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Math.Core.dll
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Math.dll
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Statistics.dll
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Video.DirectShow.dll
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Video.dll
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.xml
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Imaging.xml
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Math.xml
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Math.Core.xml
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Statistics.xml
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Video.xml
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\bin\Debug\Accord.Video.DirectShow.xml
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\obj\Debug\HGR UI.csprojAssemblyReference.cache
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\obj\Debug\HGR_UI.Form1.resources
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\obj\Debug\HGR_UI.Properties.Resources.resources
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\obj\Debug\HGR UI.csproj.GenerateResource.cache
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\obj\Debug\HGR UI.csproj.CoreCompileInputs.cache
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\obj\Debug\HGR UI.csproj.CopyComplete
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\obj\Debug\HGR UI.exe
+G:\8 sem\ins\HGR UI\HGR UI\HGR UI\obj\Debug\HGR UI.pdb
