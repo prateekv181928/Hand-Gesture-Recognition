@@ -1,8 +1,8 @@
 # Hand-Gesture-Recognition
--->PROJECT DESCRIPTION:real time gesture recognition engine designing for various gesture recognition in different sign langauges,
+PROJECT DESCRIPTION:real time gesture recognition engine designing for various gesture recognition in different sign langauges,
 
--->MOTIVATION: Gesture recognition is a mode of communication between mute and deaf people and with a machine/human interface this can make the interaction easy and viable.
+MOTIVATION: Gesture recognition is a mode of communication between mute and deaf people and with a machine/human interface this can make the interaction easy and viable.
 
--->Tags: Aforge Imaging and Video library,Support Vector Machine(SVM),
+Tags: Aforge Imaging and Video library,Support Vector Machine(SVM),
 
--->TESTING: testing various sign langauge gestures against a black background for optimal result,
+TESTING: testing various sign langauge gestures against a black background for optimal result,
